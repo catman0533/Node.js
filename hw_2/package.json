@@ -1,0 +1,12 @@
+{
+  "name": "@catman0533/simple-password-gen" ,   
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Vasiljev",
+  "license": "ISC",
+  "description": "A simple password generator"
+ 
+}
